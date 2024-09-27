@@ -2,7 +2,7 @@
   "name":"x-byte",
   "version":"1.0.2",
   "description":"X-BYTE has been designed to make things easier and fun while using WhatsApp.",
-  "main":"talkdrove.js",
+  "main":"The'wKhan.js",
   "scripts":{
     "start":"pm2 start talkdrove.js --deep-monitoring --attach --name X-BYTE",
     "stop":"pm2 stop X-BYTE",
